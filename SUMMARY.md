@@ -13,6 +13,8 @@
 * 开发
     * [App 开发](2.dev/0.app.md)
     * [Page 页面基本开发](2.dev/1.page-basic.md)
+    * [Page 页面生命周期](2.dev/2.page-life-cycel.md)
+    * [Page 组件cover-view使用](2.dev/3.page-component-cover-view.md)
     
 * Api详解与使用
     * [微信路由、页面跳转与重载](3.api/0.wx-route-page-jump.md)
