@@ -19,3 +19,6 @@
 * Api详解与使用
     * [微信路由、页面跳转与重载](3.api/0.wx-route-page-jump.md)
     * [全局方法使用](3.api/99.global-method.md)
+    
+* Uni.App
+    * [uni.app添加webstorm live template](uniApp/0.live-template.md)
